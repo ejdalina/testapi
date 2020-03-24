@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "date": "2020-03-20T03:30:38.483Z",
+    "message": "Hello world",
+    "read": true
+  },
+  {
+    "id": 2,
+    "date": "2020-03-20T03:30:38.483Z",
+    "message": "Hello world 2",
+    "read": false
+  },
+  {
+    "id": 3,
+    "date": "2020-03-20T04:22:51.569Z",
+    "message": "Hello world 3",
+    "read": true
+  },
+  {
+    "id": 4,
+    "date": "2020-03-20T04:23:07.936Z",
+    "message": "Hello world 3",
+    "read": false
+  },
+  {
+    "id": 5,
+    "date": "2020-03-20T04:23:53.595Z",
+    "message": "Hello world 5",
+    "read": false
+  },
+  {
+    "id": 6,
+    "date": "2020-03-20T04:24:35.082Z",
+    "message": "Hello world 5",
+    "read": false
+  },
+  {
+    "id": 7,
+    "date": "2020-03-20T04:26:05.431Z",
+    "message": "Hello world 5",
+    "read": false
+  },
+  {
+    "id": 8,
+    "date": "2020-03-20T04:42:31.981Z",
+    "message": "Hello world",
+    "read": false
+  }
+]
